@@ -1,3 +1,11 @@
+[project]
+name = "Project name" 
+version = "0.1.0"
+description = "Description"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
 [tool.ruff]
 # Enable pycodestyle (`E`) and Pyflakes (`F`) codes by default.
 select = ["E", "F"]
