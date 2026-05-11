@@ -60,12 +60,10 @@ For multi-step tasks, state a brief plan:
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
 
+## Access Documentation
+Use the context7 MCP server to find out more about the tech stack usage and good practices.
+
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
 
-
-## Project-Specific Instructions
-
-Whenever you need to refer to library or API documentation, generate code, or perform setup and configuration steps,
-always use Context7 MCP. Use it automatically without explicit request.
