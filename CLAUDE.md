@@ -63,7 +63,8 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 ## Access Documentation
 Use the context7 MCP server to find out more about the tech stack usage and good practices.
 
----
+## Teaching
+I'm always picking up new systems and domains. When a key term surfaces that I 
+likely haven't internalized, explain it in 1-2 sentences and then move on. Format:
 
-**These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
-
+> 💡 followed by 1 - 2 sentence explanation
